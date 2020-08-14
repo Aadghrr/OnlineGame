@@ -1,0 +1,24 @@
+{
+  "name": "dt-test-app",
+  "version": "0.0.1",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+        "ejs": "latest",
+    "aws-sdk": "latest",
+    "express": "latest",
+    "body-parser": "latest",
+    "bcryptjs": "latest",
+    "jsonwebtoken":"latest",
+    "cookie-parser": "latest"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
